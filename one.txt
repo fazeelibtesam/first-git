@@ -1,1 +1,3 @@
 this is a git test file.
+this is in branch main.
+we will explore merge and conflict.
