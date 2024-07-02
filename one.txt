@@ -3,3 +3,6 @@ this is in branch main.
 we will explore merge and conflict.
 modiying this file.
 adding some work
+//
+Hello.
+I want to learn git too.
