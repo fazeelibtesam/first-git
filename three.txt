@@ -1,6 +1,2 @@
-this file is in parallel branch.
-
-some work going on.
-
-doing further work..
-....done
+this file is for solving assumed bug-fixes.
+issues are resolved.
