@@ -1,3 +1,4 @@
 this file is for solving assumed bug-fixes.
 issues are resolved.
 merging with bug-fix.
+add
