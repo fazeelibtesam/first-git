@@ -17,6 +17,7 @@ In this repository, I have explored and practiced the following Git features:
 I learned all of these Git concepts from an excellent tutorial on YouTube. The video walks through each feature step-by-step, making it easier to understand and apply them in real-world scenarios. If you're interested in learning Git, I highly recommend checking out the tutorial!
 
 [Watch the Tutorial Here](https://youtu.be/tz82ola3oy0?si=bUF2x48377qiYy3-)
+
 [Watch the Tutorial Here](https://www.youtube.com/watch?v=q8EevlEpQ2A)
 
 ## How to Use This Repository
